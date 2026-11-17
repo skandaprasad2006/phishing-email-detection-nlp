@@ -1,0 +1,11 @@
+# Core experiment stack (CPU only).
+# Google Colab already ships compatible versions of all of these.
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+matplotlib>=3.7
+joblib>=1.3
+
+# Optional: only needed if you want NLTK stopwords instead of scikit-learn's list.
+# preprocessing.py falls back to scikit-learn automatically when NLTK is absent.
+# nltk>=3.8
