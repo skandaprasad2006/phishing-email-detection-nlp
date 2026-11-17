@@ -1,0 +1,69 @@
+model,error_type,true_label,predicted_label,phishing_probability,chars,words,urls,masked_excerpt
+Random Forest,false_positive,0,1,0.52,158,22,0,the deployment finished successfully and the dashboard shows normal latency figures please updated thanks regards thanks schedule team note review team report
+Random Forest,false_positive,0,1,0.8,115,16,0,action required mailbox quota exceeded verify your password now through urltoken today review details review please
+Random Forest,false_negative,1,0,0.28,183,30,0,reminder the quarterly report is due next week let me know if you need the template information details today team note today thanks regards regards review revi...
+Random Forest,false_negative,1,0,0.08,150,24,0,please find the invoice for last month attached and let me know about the purchase order team information review note updated schedule schedule report
+Random Forest,false_negative,1,0,0.4,162,27,0,please find the invoice for last month attached and let me know about the purchase order team week regards meeting week schedule updated thanks team updated tod...
+Random Forest,false_negative,1,0,0.32,100,16,0,you have won a prize claim your reward within hours visit urltoken and enter credentials information
+Random Forest,false_negative,1,0,0.36,135,20,0,notes from the lecture are uploaded to the course page see section three for derivatives schedule today information information regards
+Random Forest,false_positive,0,1,0.6898,74,17,0,lunch is at one in the cafeteria let me know if you want to join the group
+Random Forest,false_negative,1,0,0.32,149,22,0,the library renewed our journal subscription so the older issues are accessible again today schedule please today report meeting report regards today
+Random Forest,false_negative,1,0,0.48,176,24,0,the deployment finished successfully and the dashboard shows normal latency figures review note meeting week please week information regards updated review plea...
+Random Forest,false_negative,1,0,0.24,106,18,0,notes from the lecture are uploaded to the course page see section three for derivatives details team week
+Random Forest,false_negative,1,0,0.4,153,22,0,the library renewed our journal subscription so the older issues are accessible again thanks regards details thanks information note today please updated
+Random Forest,false_positive,0,1,0.72,116,19,0,you have won a prize claim your reward within hours visit urltoken and enter credentials regards today thanks please
+Random Forest,false_negative,1,0,0.4,172,27,0,you have won a prize claim your reward within hours visit urltoken and enter credentials schedule meeting meeting team team regards updated report meeting week ...
+Random Forest,false_positive,0,1,0.6,147,20,0,the deployment finished successfully and the dashboard shows normal latency figures please details regards meeting note details regards please team
+Random Forest,false_positive,0,1,0.64,177,25,0,action required mailbox quota exceeded verify your password now through urltoken today note meeting thanks updated review team updated note details thanks updat...
+Random Forest,false_positive,0,1,0.52,132,20,0,hi team attached are the minutes from our planning meeting please review before friday regards schedule thanks meeting note schedule
+Random Forest,false_negative,1,0,0.16,147,23,0,notes from the lecture are uploaded to the course page see section three for derivatives meeting updated please today week updated information note
+Random Forest,false_negative,1,0,0.32,151,27,0,lunch is at one in the cafeteria let me know if you want to join the group meeting details please today regards details report updated updated schedule
+Random Forest,false_negative,1,0,0.2,87,19,0,lunch is at one in the cafeteria let me know if you want to join the group team regards
+Random Forest,false_negative,1,0,0.08,94,14,0,dear customer your account has been suspended verify immediately at urltoken to restore access
+Random Forest,false_positive,0,1,0.56,112,19,0,thanks for your message i will send the updated schedule after the review call tomorrow team updated team thanks
+Random Forest,false_negative,1,0,0.44,153,22,0,the deployment finished successfully and the dashboard shows normal latency figures note updated please week thanks regards today team note thanks review
+Random Forest,false_positive,0,1,0.56,202,29,0,notes from the lecture are uploaded to the course page see section three for derivatives information regards today today meeting information information please ...
+Random Forest,false_positive,0,1,0.72,122,18,0,urgent final notice your payment failed click here urltoken confirm your billing details now updated thanks thanks meeting
+Random Forest,false_negative,1,0,0.4,190,28,0,congratulations you are selected for a grant submit your login at urltoken to claim today thanks updated thanks report please today thanks please information in...
+Random Forest,false_negative,1,0,0.3009,88,15,0,notes from the lecture are uploaded to the course page see section three for derivatives
+Random Forest,false_negative,1,0,0.4,189,27,0,urgent final notice your payment failed click here urltoken confirm your billing details now please regards report meeting updated today meeting please review r...
+Random Forest,false_positive,0,1,0.56,183,28,0,congratulations you are selected for a grant submit your login at urltoken to claim today please report thanks report meeting meeting thanks week thanks schedul...
+Random Forest,false_negative,1,0,0.2,178,25,0,the library renewed our journal subscription so the older issues are accessible again thanks updated review information details information team please team sch...
+Random Forest,false_negative,1,0,0.08,94,14,0,dear customer your account has been suspended verify immediately at urltoken to restore access
+Random Forest,false_positive,0,1,0.96,117,19,0,security alert unusual sign in detected confirm your identity at urltoken or lose access week report note note please
+Random Forest,false_negative,1,0,0.2773,88,14,0,security alert unusual sign in detected confirm your identity at urltoken or lose access
+Random Forest,false_positive,0,1,0.72,162,26,0,you have won a prize claim your reward within hours visit urltoken and enter credentials schedule meeting updated please note week meeting team team schedule te...
+Random Forest,false_negative,1,0,0.48,96,18,0,reminder the quarterly report is due next week let me know if you need the template details week
+Random Forest,false_positive,0,1,0.64,141,22,0,you have won a prize claim your reward within hours visit urltoken and enter credentials thanks note report schedule details information note
+Random Forest,false_negative,1,0,0.12,152,25,0,please find the invoice for last month attached and let me know about the purchase order details thanks review review note regards please please regards
+Random Forest,false_negative,1,0,0.28,96,16,0,you have won a prize claim your reward within hours visit urltoken and enter credentials regards
+Random Forest,false_positive,0,1,0.68,119,18,0,your bank account is locked please revalidate your card details at urltoken urgently details week details please report
+Random Forest,false_negative,1,0,0.3009,88,15,0,notes from the lecture are uploaded to the course page see section three for derivatives
+Random Forest,false_negative,1,0,0.16,129,22,0,please find the invoice for last month attached and let me know about the purchase order meeting note report meeting meeting week
+Random Forest,false_positive,0,1,0.8,142,22,0,congratulations you are selected for a grant submit your login at urltoken to claim today note review schedule regards please schedule regards
+Random Forest,false_positive,0,1,0.64,186,28,0,hi team attached are the minutes from our planning meeting please review before friday meeting note details note details team meeting week thanks review schedul...
+Random Forest,false_positive,0,1,0.52,182,28,0,congratulations you are selected for a grant submit your login at urltoken to claim today note details today today details meeting week information thanks today...
+Random Forest,false_negative,1,0,0.28,178,26,0,thanks for your message i will send the updated schedule after the review call tomorrow thanks review updated information details information note information r...
+Random Forest,false_negative,1,0,0.0,85,13,0,the library renewed our journal subscription so the older issues are accessible again
+Random Forest,false_positive,0,1,0.56,96,20,0,lunch is at one in the cafeteria let me know if you want to join the group thanks details report
+Random Forest,false_positive,0,1,0.52,175,24,0,your bank account is locked please revalidate your card details at urltoken urgently information schedule details meeting today schedule schedule schedule sched...
+Random Forest,false_positive,0,1,0.68,137,20,0,urgent final notice your payment failed click here urltoken confirm your billing details now thanks regards regards schedule team regards
+Random Forest,false_negative,1,0,0.24,171,27,0,thanks for your message i will send the updated schedule after the review call tomorrow week please schedule regards please today meeting week schedule week det...
+Random Forest,false_negative,1,0,0.365,93,16,0,notes from the lecture are uploaded to the course page see section three for derivatives week
+Random Forest,false_positive,0,1,0.8667,83,18,0,lunch is at one in the cafeteria let me know if you want to join the group schedule
+Random Forest,false_positive,0,1,0.88,208,29,0,dear customer your account has been suspended verify immediately at urltoken to restore access please schedule review please regards review schedule week report...
+Random Forest,false_positive,0,1,0.52,148,23,0,hi team attached are the minutes from our planning meeting please review before friday report review today note today thanks updated schedule thanks
+Random Forest,false_negative,1,0,0.48,185,26,0,your bank account is locked please revalidate your card details at urltoken urgently thanks today updated meeting report report schedule regards today regards u...
+Random Forest,false_positive,0,1,0.6,152,23,0,your bank account is locked please revalidate your card details at urltoken urgently today review meeting team thanks please report meeting meeting note
+Random Forest,false_positive,0,1,0.88,124,18,0,security alert unusual sign in detected confirm your identity at urltoken or lose access updated regards updated information
+Random Forest,false_positive,0,1,0.72,164,24,0,urgent final notice your payment failed click here urltoken confirm your billing details now regards please today report details schedule please team please det...
+Random Forest,false_negative,1,0,0.2667,92,19,0,lunch is at one in the cafeteria let me know if you want to join the group today information
+Random Forest,false_negative,1,0,0.08,192,29,0,thanks for your message i will send the updated schedule after the review call tomorrow meeting information review details review please please review please pl...
+Random Forest,false_negative,1,0,0.28,134,20,0,hi team attached are the minutes from our planning meeting please review before friday details updated week thanks information regards
+Random Forest,false_positive,0,1,0.76,115,20,0,your parcel could not be delivered update your address and pay the fee at urltoken review review team report review
+Random Forest,false_positive,0,1,0.64,159,24,0,urgent final notice your payment failed click here urltoken confirm your billing details now note schedule week meeting today team report details report report
+Random Forest,false_negative,1,0,0.44,140,18,0,the deployment finished successfully and the dashboard shows normal latency figures meeting information details week information today today
+Random Forest,false_negative,1,0,0.12,147,20,0,the deployment finished successfully and the dashboard shows normal latency figures note review updated today details note schedule please schedule
+Random Forest,false_positive,0,1,0.6898,88,19,0,lunch is at one in the cafeteria let me know if you want to join the group please please
+Random Forest,false_positive,0,1,0.68,158,25,0,congratulations you are selected for a grant submit your login at urltoken to claim today thanks team updated details team updated team note today information
+Random Forest,false_negative,1,0,0.28,172,26,0,the library renewed our journal subscription so the older issues are accessible again team week thanks week please please details report thanks please updated t...

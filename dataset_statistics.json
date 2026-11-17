@@ -1,0 +1,77 @@
+{
+  "total_records": 900,
+  "class_distribution": [
+    {
+      "label": 0,
+      "class": "legitimate",
+      "count": 450,
+      "percent": 50.0
+    },
+    {
+      "label": 1,
+      "class": "phishing",
+      "count": 450,
+      "percent": 50.0
+    }
+  ],
+  "missing_bodies": 0,
+  "missing_labels_dropped": 0,
+  "duplicate_bodies": 40,
+  "all_lengths": {
+    "mean_chars": 146.37,
+    "median_chars": 146.0,
+    "mean_words": 21.52
+  },
+  "legitimate_lengths": {
+    "mean_chars": 143.89,
+    "median_chars": 143.0,
+    "mean_words": 21.9
+  },
+  "phishing_lengths": {
+    "mean_chars": 148.84,
+    "median_chars": 149.0,
+    "mean_words": 21.14
+  },
+  "raw_token_vocabulary": 155,
+  "meta": {
+    "source_file": "<synthetic>",
+    "source_path": "<synthetic>",
+    "n_rows_raw": 900,
+    "n_columns": 7,
+    "columns": [
+      "sender",
+      "receiver",
+      "date",
+      "subject",
+      "body",
+      "urls",
+      "label"
+    ],
+    "body_column": "body",
+    "label_column": "label",
+    "subject_column": "subject",
+    "url_column": "urls",
+    "label_meta": {
+      "encoding": "numeric 0/1 as stored in file",
+      "raw_values": [
+        1,
+        0
+      ],
+      "mapping": {
+        "1": 1,
+        "0": 0
+      }
+    },
+    "missing_bodies": 0,
+    "missing_labels_dropped": 0,
+    "duplicate_bodies": 40,
+    "n_used": 900
+  },
+  "tfidf_vocabulary_size": 112,
+  "tfidf_feature_dim": 112,
+  "tfidf_ngram_range": [
+    1,
+    1
+  ],
+  "tfidf_stop_words": 318
+}

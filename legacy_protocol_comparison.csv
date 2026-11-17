@@ -1,0 +1,2 @@
+model,protocol,accuracy,n_train,n_test,test_class_distribution,vectorizer_vocabulary
+Random Forest,"legacy (TF-IDF fitted before split, unstratified, unseeded)",0.6444444444444445,720,180,"{0: 92, 1: 88}",115

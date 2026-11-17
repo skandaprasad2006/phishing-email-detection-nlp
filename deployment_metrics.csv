@@ -1,0 +1,3 @@
+model,artifact_mb,single_email_latency_ms_mean,single_email_latency_ms_median,single_email_latency_ms_p95,batch_throughput_emails_per_second,timed_emails,n_features
+Random Forest,0.666,18.028,17.386,22.391,7358.2,150,112
+Logistic Regression,0.007,0.432,0.393,0.697,87044.8,150,112

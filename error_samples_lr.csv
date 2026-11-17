@@ -1,0 +1,54 @@
+model,error_type,true_label,predicted_label,phishing_probability,chars,words,urls,masked_excerpt
+Logistic Regression,false_positive,0,1,0.7711,115,16,0,action required mailbox quota exceeded verify your password now through urltoken today review details review please
+Logistic Regression,false_negative,1,0,0.4519,183,30,0,reminder the quarterly report is due next week let me know if you need the template information details today team note today thanks regards regards review revi...
+Logistic Regression,false_negative,1,0,0.2755,150,24,0,please find the invoice for last month attached and let me know about the purchase order team information review note updated schedule schedule report
+Logistic Regression,false_negative,1,0,0.3062,162,27,0,please find the invoice for last month attached and let me know about the purchase order team week regards meeting week schedule updated thanks team updated tod...
+Logistic Regression,false_negative,1,0,0.3207,135,20,0,notes from the lecture are uploaded to the course page see section three for derivatives schedule today information information regards
+Logistic Regression,false_negative,1,0,0.2481,149,22,0,the library renewed our journal subscription so the older issues are accessible again today schedule please today report meeting report regards today
+Logistic Regression,false_negative,1,0,0.3217,176,24,0,the deployment finished successfully and the dashboard shows normal latency figures review note meeting week please week information regards updated review plea...
+Logistic Regression,false_negative,1,0,0.2898,106,18,0,notes from the lecture are uploaded to the course page see section three for derivatives details team week
+Logistic Regression,false_negative,1,0,0.268,153,22,0,the library renewed our journal subscription so the older issues are accessible again thanks regards details thanks information note today please updated
+Logistic Regression,false_positive,0,1,0.7776,116,19,0,you have won a prize claim your reward within hours visit urltoken and enter credentials regards today thanks please
+Logistic Regression,false_positive,0,1,0.7291,177,25,0,action required mailbox quota exceeded verify your password now through urltoken today note meeting thanks updated review team updated note details thanks updat...
+Logistic Regression,false_positive,0,1,0.774,100,16,0,you have won a prize claim your reward within hours visit urltoken and enter credentials information
+Logistic Regression,false_negative,1,0,0.3497,147,23,0,notes from the lecture are uploaded to the course page see section three for derivatives meeting updated please today week updated information note
+Logistic Regression,false_negative,1,0,0.3364,151,27,0,lunch is at one in the cafeteria let me know if you want to join the group meeting details please today regards details report updated updated schedule
+Logistic Regression,false_negative,1,0,0.3428,87,19,0,lunch is at one in the cafeteria let me know if you want to join the group team regards
+Logistic Regression,false_negative,1,0,0.3601,153,22,0,the deployment finished successfully and the dashboard shows normal latency figures note updated please week thanks regards today team note thanks review
+Logistic Regression,false_positive,0,1,0.6221,122,18,0,urgent final notice your payment failed click here urltoken confirm your billing details now updated thanks thanks meeting
+Logistic Regression,false_negative,1,0,0.2971,88,15,0,notes from the lecture are uploaded to the course page see section three for derivatives
+Logistic Regression,false_negative,1,0,0.1951,178,25,0,the library renewed our journal subscription so the older issues are accessible again thanks updated review information details information team please team sch...
+Logistic Regression,false_positive,0,1,0.7477,117,19,0,security alert unusual sign in detected confirm your identity at urltoken or lose access week report note note please
+Logistic Regression,false_positive,0,1,0.6355,162,26,0,you have won a prize claim your reward within hours visit urltoken and enter credentials schedule meeting updated please note week meeting team team schedule te...
+Logistic Regression,false_negative,1,0,0.3372,96,18,0,reminder the quarterly report is due next week let me know if you need the template details week
+Logistic Regression,false_positive,0,1,0.7388,141,22,0,you have won a prize claim your reward within hours visit urltoken and enter credentials thanks note report schedule details information note
+Logistic Regression,false_negative,1,0,0.3379,152,25,0,please find the invoice for last month attached and let me know about the purchase order details thanks review review note regards please please regards
+Logistic Regression,false_positive,0,1,0.6681,119,18,0,your bank account is locked please revalidate your card details at urltoken urgently details week details please report
+Logistic Regression,false_negative,1,0,0.2971,88,15,0,notes from the lecture are uploaded to the course page see section three for derivatives
+Logistic Regression,false_negative,1,0,0.3462,79,18,0,lunch is at one in the cafeteria let me know if you want to join the group week
+Logistic Regression,false_positive,0,1,0.6759,111,17,0,your bank account is locked please revalidate your card details at urltoken urgently review team report regards
+Logistic Regression,false_negative,1,0,0.2716,129,22,0,please find the invoice for last month attached and let me know about the purchase order meeting note report meeting meeting week
+Logistic Regression,false_positive,0,1,0.6473,142,22,0,congratulations you are selected for a grant submit your login at urltoken to claim today note review schedule regards please schedule regards
+Logistic Regression,false_positive,0,1,0.6842,182,28,0,congratulations you are selected for a grant submit your login at urltoken to claim today note details today today details meeting week information thanks today...
+Logistic Regression,false_negative,1,0,0.4027,178,26,0,thanks for your message i will send the updated schedule after the review call tomorrow thanks review updated information details information note information r...
+Logistic Regression,false_negative,1,0,0.2074,85,13,0,the library renewed our journal subscription so the older issues are accessible again
+Logistic Regression,false_positive,0,1,0.5263,175,24,0,your bank account is locked please revalidate your card details at urltoken urgently information schedule details meeting today schedule schedule schedule sched...
+Logistic Regression,false_positive,0,1,0.6245,137,20,0,urgent final notice your payment failed click here urltoken confirm your billing details now thanks regards regards schedule team regards
+Logistic Regression,false_negative,1,0,0.3176,171,27,0,thanks for your message i will send the updated schedule after the review call tomorrow week please schedule regards please today meeting week schedule week det...
+Logistic Regression,false_negative,1,0,0.3018,93,16,0,notes from the lecture are uploaded to the course page see section three for derivatives week
+Logistic Regression,false_positive,0,1,0.6235,208,29,0,dear customer your account has been suspended verify immediately at urltoken to restore access please schedule review please regards review schedule week report...
+Logistic Regression,false_negative,1,0,0.2048,121,18,0,the library renewed our journal subscription so the older issues are accessible again please today report schedule report
+Logistic Regression,false_positive,0,1,0.6033,183,26,0,your bank account is locked please revalidate your card details at urltoken urgently today schedule report regards schedule details schedule please meeting note...
+Logistic Regression,false_positive,0,1,0.5019,168,26,0,hi team attached are the minutes from our planning meeting please review before friday report thanks meeting week information note please team note details note...
+Logistic Regression,false_positive,0,1,0.5948,152,23,0,your bank account is locked please revalidate your card details at urltoken urgently today review meeting team thanks please report meeting meeting note
+Logistic Regression,false_positive,0,1,0.7465,124,18,0,security alert unusual sign in detected confirm your identity at urltoken or lose access updated regards updated information
+Logistic Regression,false_positive,0,1,0.6163,164,24,0,urgent final notice your payment failed click here urltoken confirm your billing details now regards please today report details schedule please team please det...
+Logistic Regression,false_negative,1,0,0.3728,92,19,0,lunch is at one in the cafeteria let me know if you want to join the group today information
+Logistic Regression,false_negative,1,0,0.3275,192,29,0,thanks for your message i will send the updated schedule after the review call tomorrow meeting information review details review please please review please pl...
+Logistic Regression,false_negative,1,0,0.4979,134,20,0,hi team attached are the minutes from our planning meeting please review before friday details updated week thanks information regards
+Logistic Regression,false_positive,0,1,0.6269,115,20,0,your parcel could not be delivered update your address and pay the fee at urltoken review review team report review
+Logistic Regression,false_positive,0,1,0.5836,159,24,0,urgent final notice your payment failed click here urltoken confirm your billing details now note schedule week meeting today team report details report report
+Logistic Regression,false_negative,1,0,0.3362,140,18,0,the deployment finished successfully and the dashboard shows normal latency figures meeting information details week information today today
+Logistic Regression,false_negative,1,0,0.3202,147,20,0,the deployment finished successfully and the dashboard shows normal latency figures note review updated today details note schedule please schedule
+Logistic Regression,false_positive,0,1,0.6637,158,25,0,congratulations you are selected for a grant submit your login at urltoken to claim today thanks team updated details team updated team note today information
+Logistic Regression,false_negative,1,0,0.2212,172,26,0,the library renewed our journal subscription so the older issues are accessible again team week thanks week please please details report thanks please updated t...
